@@ -4,7 +4,7 @@
     "url": "https://nightscoutga.freeddns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/nightscoutga.freeddns.org.ico",
     "slug": "night-scou-ga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 839,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2025-04-26": 0,
       "2025-04-09": 38,
       "2024-10-05": 63,
       "2024-09-26": 45
