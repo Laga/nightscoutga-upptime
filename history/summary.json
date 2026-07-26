@@ -5,20 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/nightscoutga.freeddns.org.ico",
     "slug": "night-scou-ga",
     "status": "down",
-    "uptime": "99.77%",
+    "uptime": "99.74%",
     "uptimeDay": "14.04%",
-    "uptimeWeek": "80.23%",
-    "uptimeMonth": "95.45%",
-    "uptimeYear": "99.61%",
+    "uptimeWeek": "77.04%",
+    "uptimeMonth": "94.72%",
+    "uptimeYear": "99.55%",
     "time": 870,
-    "timeDay": 639,
-    "timeWeek": 808,
-    "timeMonth": 798,
+    "timeDay": 621,
+    "timeWeek": 780,
+    "timeMonth": 799,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2025-08-29": 48,
-      "2026-07-25": 997,
-      "2026-07-24": 996
+      "2026-07-25": 1238,
+      "2026-07-24": 996,
+      "2026-07-26": 80
     }
   }
 ]
